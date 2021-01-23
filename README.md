@@ -7,7 +7,7 @@ I changed the action of Change View Color and Change Text Color. It was original
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/g4lXh3MGyc.gif" width=200><br>
+<img src="http://g.recordit.co/RC4j0LYaQh.gif" width=200><br>
 
 
 ### Required User Stories
